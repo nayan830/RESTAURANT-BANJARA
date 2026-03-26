@@ -1,1 +1,171 @@
-
+{
+  "project": "Banjara Multi Cuisine Restaurant",
+  "version": "1.0",
+  "base_path": "images/",
+  "images": [
+    {
+      "id": "featured_biryani",
+      "file": "featured_biryani_1774519679523.png",
+      "path": "images/featured_biryani_1774519679523.png",
+      "alt": "Banjara Special Biryani",
+      "section": "Home – Featured Dish Plate",
+      "category": "food",
+      "size_kb": 88
+    },
+    {
+      "id": "restaurant_interior",
+      "file": "restaurant_interior_1774519697135.png",
+      "path": "images/restaurant_interior_1774519697135.png",
+      "alt": "Banjara Restaurant Interior",
+      "section": "About – Visual Frame 1",
+      "category": "interior",
+      "size_kb": 69
+    },
+    {
+      "id": "gallery_biryani",
+      "file": "gallery_biryani_1774519712725.png",
+      "path": "images/gallery_biryani_1774519712725.png",
+      "alt": "Biryani – Gallery",
+      "section": "Gallery – Food (Tall)",
+      "category": "food",
+      "size_kb": 97
+    },
+    {
+      "id": "gallery_dining",
+      "file": "gallery_dining_1774519735125.png",
+      "path": "images/gallery_dining_1774519735125.png",
+      "alt": "Dining Area",
+      "section": "Gallery – Interior",
+      "category": "interior",
+      "size_kb": 85
+    },
+    {
+      "id": "gallery_tandoori",
+      "file": "gallery_tandoori_1774519751602.png",
+      "path": "images/gallery_tandoori_1774519751602.png",
+      "alt": "Tandoori Chicken",
+      "section": "Gallery – Food",
+      "category": "food",
+      "size_kb": 82
+    },
+    {
+      "id": "gallery_exterior",
+      "file": "gallery_exterior_1774519768915.png",
+      "path": "images/gallery_exterior_1774519768915.png",
+      "alt": "Restaurant Exterior",
+      "section": "Gallery – Exterior",
+      "category": "exterior",
+      "size_kb": 103
+    },
+    {
+      "id": "gallery_noodles",
+      "file": "gallery_noodles_1774519796258.png",
+      "path": "images/gallery_noodles_1774519796258.png",
+      "alt": "Chinese Noodles",
+      "section": "Gallery – Food",
+      "category": "food",
+      "size_kb": 69
+    },
+    {
+      "id": "gallery_ambience",
+      "file": "gallery_ambience_1774519811360.png",
+      "path": "images/gallery_ambience_1774519811360.png",
+      "alt": "Restaurant Ambience",
+      "section": "Gallery – Interior (Tall)",
+      "category": "interior",
+      "size_kb": 68
+    },
+    {
+      "id": "gallery_kebabs",
+      "file": "gallery_kebabs_1774519830490.png",
+      "path": "images/gallery_kebabs_1774519830490.png",
+      "alt": "Kebab Platter",
+      "section": "Gallery – Food",
+      "category": "food",
+      "size_kb": 74
+    },
+    {
+      "id": "gallery_pizza",
+      "file": "gallery_pizza_1774519854950.png",
+      "path": "images/gallery_pizza_1774519854950.png",
+      "alt": "Pizza",
+      "section": "Gallery – Food",
+      "category": "food",
+      "size_kb": 84
+    },
+    {
+      "id": "gallery_decor",
+      "file": "gallery_decor_1774519873985.png",
+      "path": "images/gallery_decor_1774519873985.png",
+      "alt": "Restaurant Decor",
+      "section": "Gallery – Interior / About Frame 2",
+      "category": "interior",
+      "size_kb": 93
+    },
+    {
+      "id": "chef_indian",
+      "file": "chef_indian_1774519891121.png",
+      "path": "images/chef_indian_1774519891121.png",
+      "alt": "Chef Rajan Kumar – Head Chef",
+      "section": "Chefs Page – Card 1",
+      "category": "chef",
+      "size_kb": 53
+    },
+    {
+      "id": "chef_chinese",
+      "file": "chef_chinese_1774519918007.png",
+      "path": "images/chef_chinese_1774519918007.png",
+      "alt": "Chef Wei Liang – Sous Chef",
+      "section": "Chefs Page – Card 2",
+      "category": "chef",
+      "size_kb": 64
+    },
+    {
+      "id": "chef_female",
+      "file": "chef_female_1774519934350.png",
+      "path": "images/chef_female_1774519934350.png",
+      "alt": "Chef Sunita Dey – Pastry & Continental",
+      "section": "Chefs Page – Card 3",
+      "category": "chef",
+      "size_kb": 45
+    },
+    {
+      "id": "chef_tandoor",
+      "file": "chef_tandoor_1774519959853.png",
+      "path": "images/chef_tandoor_1774519959853.png",
+      "alt": "Chef Arjun Paul – Kebab & Tandoor Specialist",
+      "section": "Chefs Page – Card 4",
+      "category": "chef",
+      "size_kb": 80
+    },
+    {
+      "id": "blog_biryani_art",
+      "file": "blog_biryani_art_1774519975272.png",
+      "path": "images/blog_biryani_art_1774519975272.png",
+      "alt": "Art of Dum Biryani",
+      "section": "Blog – Post 1 Thumbnail",
+      "category": "blog",
+      "size_kb": 67
+    },
+    {
+      "id": "blog_tandoor_fire",
+      "file": "blog_tandoor_fire_1774519989077.png",
+      "path": "images/blog_tandoor_fire_1774519989077.png",
+      "alt": "Tandoor Cooking – Blog",
+      "section": "Blog – Post 2 Thumbnail",
+      "category": "blog",
+      "size_kb": 83
+    }
+  ],
+  "summary": {
+    "total_images": 17,
+    "categories": {
+      "food": 7,
+      "interior": 4,
+      "exterior": 1,
+      "chef": 4,
+      "blog": 2
+    },
+    "total_size_kb": 1305
+  }
+}
